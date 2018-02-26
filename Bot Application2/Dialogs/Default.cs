@@ -23,7 +23,7 @@ namespace Bot_Application2.Dialogs
         [LuisIntent("Greetings")]
         public async Task Greetings(IDialogContext context, LuisResult result)
         {
-            // hello
+            // hellokjsdcjkvhg
 
             //var msg =  await result.ToString() ;
             //if( msg.Equals("hi"))
